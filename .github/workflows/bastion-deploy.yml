@@ -94,4 +94,3 @@ jobs:
           script: |
             cd deploy_scripts
             ./run_redis_backend_deploy.sh $GHCR_TOKEN $GITHUB_ACTOR
-
